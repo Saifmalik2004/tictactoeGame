@@ -1,0 +1,10 @@
+# Tic Tac Toe Game
+
+This repository contains a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. The game features  allowing two players to compete against each other on the same device. Key functionalities include turn-based gameplay, win detection, and a restart option to play again. Perfect for those looking to explore basic web development concepts and improve their JavaScript skills.
+
+## Features
+- Interactive and intuitive user interface
+- Win detection and draw handling
+- Easy-to-understand code structure
+
+Feel free to explore, clone, and contribute to enhance the game!
